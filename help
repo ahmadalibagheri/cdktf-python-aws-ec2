@@ -1,0 +1,17 @@
+========================================================================================================
+
+  Your cdktf typescript project is ready!
+
+  cat help                Print this message
+
+  Synthesize:
+    cdktf synth [stack]   Synthesize Terraform resources from stacks to cdktf.out/ (ready for 'terraform apply')
+
+  Diff:
+    cdktf diff [stack]    Perform a diff (terraform plan) for the given stack
+
+  Deploy:
+    cdktf deploy [stack]  Deploy the given stack
+
+  Destroy:
+    cdktf destroy [stack] Destroy the stack
